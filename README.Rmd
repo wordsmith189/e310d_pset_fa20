@@ -1,0 +1,12 @@
+---
+title: "P-Set 0"
+subtitle: "E 310D Intro to DS, Fall 2020"
+author: Lars Hinrichs
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Welcome. Let's get started with our assignments!
