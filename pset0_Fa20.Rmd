@@ -1,0 +1,52 @@
+---
+title: "Problem Set 0"
+author: "Name here"
+output:
+  html_document:
+    df_print: paged
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter* (Mac: Cmd+Shift+Enter).
+
+```{r}
+plot(cars)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button (make sure it's an R chunk) on the toolbar or by pressing *Ctrl+Alt+I* (Mac: Cmd+Option/Alt+I).
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* [Mac: Cmd+Shift+K] to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+# Basic Programming
+1. Try some basic math here.
+```{r}
+
+```
+
+2. What does this code do?
+```{r}
+x <- 3
+```
+<answer here>
+
+3. What does this code do?
+
+```{r}
+x <- 5
+if (x < 10) {
+  x <- 10
+}
+```
+<answer here>
+
+
+# Submitting
+1. Add your name in the Author field at the top of the notebook.
+2. Open GitHub Desktop.
+3. Select the Assignment0 repository.
+4. Add a short description of your changes to the Summary field on the left.
+5. Click "Commit to master"
+6. Click "Push origin" at the top.
